@@ -1,0 +1,39 @@
+[
+    {
+      "id":"1",
+      "category": "Global",
+      "title": "The Changing Dynamics of  International Relations",
+      "author": "Sarah Johnson",
+      "date": "2024-02-27",
+      "content": "In this blog post, we examine the shifting landscape of international relations in the 21st century. From geopolitical tensions to emerging global challenges, we analyze the key players and dynamics shaping the world stage. We delve into recent diplomatic developments, conflicts, and the implications for global stability and cooperation.",
+      "image_url": "https://images.unsplash.com/photo-1521295121783-8a321d551ad2?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id":"2",
+      "category": "Political",
+      "title": "Impact of Climate Change on International Relations",
+      "author": "David Kim",
+      "date": "2024-03-01",
+      "content": "Climate change is increasingly recognized as a significant factor in global politics, with implications for security, migration, and resource competition. In this blog post, we explore how climate-related events are reshaping international relations, from negotiations over emissions reduction targets to climate-induced conflicts. We discuss the role of international cooperation and the challenges of addressing climate change in a geopolitically complex world.",
+      "image_url": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id":"3",
+      "category": "Sports",
+      "title": "The Evolution of Esports: From Niche to Mainstream",
+      "author": "Michael Thompson",
+      "date": "2024-02-28",
+      "content": "Esports has rapidly grown from a niche hobby to a billion-dollar industry with a global audience. In this blog post, we explore the rise of competitive gaming, its impact on traditional sports, and the future of esports as a mainstream phenomenon. From professional leagues to esports events filling stadiums, we discuss the cultural significance and economic opportunities of this burgeoning industry.",
+      "image_url": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+      "id":"4",
+      "category": "Fashion",
+      "title": "  Fashion : Trends Towards The Eco-Friendly Design",
+      "author": "Emma Roberts",
+      "date": "2024-02-29",
+      "content": "As environmental concerns continue to rise, the fashion industry is undergoing a transformation towards sustainability. In this blog post, we highlight the growing trend of eco-friendly fashion, from recycled materials to ethical production practices. We showcase innovative designers and brands leading the charge towards a more sustainable future in fashion, while also addressing the challenges and opportunities ahead.",
+      "image_url": "https://images.unsplash.com/photo-1483985988355-763728e1935b?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    }
+  ]
+  
